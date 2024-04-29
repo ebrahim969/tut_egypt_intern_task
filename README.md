@@ -1,16 +1,11 @@
 # tut_egypt
 
-A new Flutter project.
+Frist task at DigitalCode Company
 
-## Getting Started
+## Project Demo
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+https://github.com/ebrahim969/tut_egypt_intern_task/assets/113116449/9f675898-d0d1-4f47-8dfe-7e94939c5038
+
